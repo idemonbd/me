@@ -275,7 +275,7 @@ p {
 
 .bg-home {
     position: relative;
-    background-image: url(../images/bg.jpg);
+    background-image: url(../../images/bg.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center center;
@@ -564,7 +564,7 @@ p {
 
 .bg-counter{
     position: relative;
-    background-image: url(../images/bg.jpg);
+    background-image: url(../../images/bg.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
